@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Binary wrapper jar is omitted for platforms that disallow binary files in PRs
+/gradle/wrapper/gradle-wrapper.jar
